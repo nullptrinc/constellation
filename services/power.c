@@ -21,7 +21,7 @@
 #include <sys/socket.h>
 #include <time.h>
 #include <unistd.h>
-#include "../constellation.h"
+#include "constellation.h"
 
 #define SUPPLIES "/sys/class/power_supply"
 #define REFRESH_MSEC 10000
